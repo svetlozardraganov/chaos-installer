@@ -27,7 +27,7 @@ Combining the above points with variaty of internal functions makes the whole pr
 FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but it will still demonstrate how the tool is build.
 
 # Technology
-The projects is build mainly on Python and PyQT. Of course many python standard libraries have been used to deliever additional funtionality like:
+The projects is build mainly on Python and PyQt. Of course many python standard libraries have been used to deliever additional funtionality like:
 * os, json, time, datetime, sys, platform, tempfile, subprocess, operator, logging, shutil, ftplib, re, requests, winreg, zipfile, pathlib, threading, csv, signal, xml.etree.ElementTree, asyncio.format_helpers
 
 # What I learned
