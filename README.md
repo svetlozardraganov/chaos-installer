@@ -1,5 +1,10 @@
 # chaos-installer
-Complete automation tool for installing/uninstalling Chaos products. Support all Chaos products on Windows, Linux, and MacOS systems.
+Complete automation tool for installing/uninstalling Chaos products. The tool support:
+* All Chaos products
+* All Operating Systems Windows, Linux, and MacOS.
+* All installation types (Official, Nightly, ZIP/Arbitrary)
+* Product Uninstallation
+* License Listener
 
 # Disclamer
 FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but it will still demonstrate my programming skills.
@@ -7,7 +12,7 @@ FTP and HTTP connection information has been removed due to their sensitivity. T
 # Overview
 QA and Support Teams' daily tasks require multiple installations/uninstallations of various versions of the products. This althought simple task requires some efforts from the team-members and also causes some inconviniences. The main idea of the tool as to optimize/automate the process of downloading and installing the software and make it much more plesant for the engeneer.
 
-# Challenges
+# Challenges #
 
 ### First challenge:
 Huge variations of Chaos Products and their versions. There aren't common standards established between different products and versions. Naming conventions, environment variables, parameters and etc are very different from product to product and from version to version. This extreme versatility requires from lots of classes and functions to be aware of those dicrepancies in order to properly install and remove the software.
