@@ -28,12 +28,13 @@ FTP and HTTP connection information has been removed due to their sensitivity. T
 
 # Technology
 The projects is build mainly on Python and PyQT. Of course many python standard libraries have been used to deliever additional funtionality like:
-* os, json, time, datetime, sys, platform, tempfile, subprocess, operator, logging, shutil, ftplib, re, requests, winreg, zipfile, pathlib, threading, csv, signal, import xml.etree.ElementTree, asyncio.format_helpers
+* os, json, time, datetime, sys, platform, tempfile, subprocess, operator, logging, shutil, ftplib, re, requests, winreg, zipfile, pathlib, threading, csv, signal, xml.etree.ElementTree, asyncio.format_helpers
 
 # What I learned
 * How to build software that support multiple OSes
 * How build GUI applications with PyQT library
 * How to build software entire on OOP
 * Work with Windows Registry
-* 
+* How to run processes on separate threads
+
 
