@@ -36,6 +36,7 @@ The project is built mainly on Python and PyQt. Of course, many python standard 
 * How to build software entirely on OOP
 * Work with Windows Registry
 * How to run processes on separate threads
+* How to separate complex project into modules/classes
 
 # Examples
 ![image](https://user-images.githubusercontent.com/74985932/207979018-c6c9885c-9421-4ab7-9125-671788fd66de.png)
