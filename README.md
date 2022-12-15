@@ -24,7 +24,7 @@ Different Operating Systems. The tool supports Windows, Linux, and macOS. Most o
 Combining the above points with a variety of internal functions makes the whole project a lot more complex than it looks on the surface.
 
 # Disclamer
-FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but it will still demonstrate how the tool is built.
+FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but this is not important since the project is for demonstration purposes only.
 
 # Technology
 The project is built mainly on Python and PyQt. Of course, many python standard libraries have been used to deliver additional functionality like:
