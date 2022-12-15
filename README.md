@@ -39,5 +39,9 @@ The projects is build mainly on Python and PyQT. Of course many python standard 
 
 # Examples
 ![image](https://user-images.githubusercontent.com/74985932/207979018-c6c9885c-9421-4ab7-9125-671788fd66de.png)
+![image](https://user-images.githubusercontent.com/74985932/207979194-66666470-8b62-40e0-a352-1b16f1b58417.png)
+![image](https://user-images.githubusercontent.com/74985932/207979237-61648f34-a6af-4a57-ad69-a5417c74a535.png)
+![image](https://user-images.githubusercontent.com/74985932/207979276-626df7f2-9bac-4e87-b101-2a3a775392d6.png)
+
 
 
