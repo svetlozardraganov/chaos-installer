@@ -6,11 +6,9 @@ Complete automation tool for installing/uninstalling Chaos products with support
 * Product Uninstallation
 * License Listener
 
-# Disclamer
-FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but it will still demonstrate how the tool is build.
 
 # Overview
-QA and Support Teams' daily tasks require multiple installations/uninstallations of various versions of the products. This althought simple task requires some efforts from the team-members and also causes some inconviniences. The main idea of the tool as to optimize/automate the process of downloading and installing the software and make it much more plesant for the engeneer.
+QA and Support engeneers daily tasks require multiple installations/uninstallations of various versions of the products. This althought simple task requires some efforts from the team-members and also causes inconviniences. The main idea of the tool as to optimize/automate the process of downloading and installing the software and make it much more plesant for the engeneer.
 
 # Challenges #
 
@@ -25,6 +23,11 @@ Different Operating Systems. The tool supports Windows, Linux and MacOS. Most of
 
 Combining the above points with variaty of internal functions makes the whole projects a lot more complex than it looks like on the surface.
 
+# Disclamer
+FTP and HTTP connection information has been removed due to their sensitivity. This will make the code unusable but it will still demonstrate how the tool is build.
+
 # Technology
+The projects is build mainly on Python and PyQT. Of course many python standard libraries have been used to deliever additional funtionality like:
+* os, json, time, datetime, sys, platform, tempfile, subprocess, operator, logging, shutil, ftplib, re, requests, winreg, zipfile, pathlib, threading, csv, signal, import xml.etree.ElementTree, asyncio.format_helpers
 
 # What I learned
