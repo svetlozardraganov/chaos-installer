@@ -1,11 +1,11 @@
 # chaos-installer
-Complete automation tool for installing/uninstalling Chaos products with support for:
+Complete automation software for installing/uninstalling Chaos products with support for:
 * All Chaos products
 * All Operating Systems Windows, Linux, and MacOS.
 * All installation types (Official, Nightly, ZIP/Arbitrary)
 * Product Uninstallation
 * License Listener
-
+* Settings
 
 # Overview
 QA and Support engeneers daily tasks require multiple installations/uninstallations of various versions of the products. This althought simple task requires some efforts from the team-members and also causes inconviniences. The main idea of the tool as to optimize/automate the process of downloading and installing the software and make it much more plesant for the engeneer.
@@ -31,3 +31,9 @@ The projects is build mainly on Python and PyQT. Of course many python standard 
 * os, json, time, datetime, sys, platform, tempfile, subprocess, operator, logging, shutil, ftplib, re, requests, winreg, zipfile, pathlib, threading, csv, signal, import xml.etree.ElementTree, asyncio.format_helpers
 
 # What I learned
+* How to build software that support multiple OSes
+* How build GUI applications with PyQT library
+* How to build software entire on OOP
+* Work with Windows Registry
+* 
+
