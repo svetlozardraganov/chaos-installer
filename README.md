@@ -37,4 +37,7 @@ The projects is build mainly on Python and PyQT. Of course many python standard 
 * Work with Windows Registry
 * How to run processes on separate threads
 
+# Examples
+![image](https://user-images.githubusercontent.com/74985932/207979018-c6c9885c-9421-4ab7-9125-671788fd66de.png)
+
 
