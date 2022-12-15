@@ -7,7 +7,7 @@ Complete automation software for installing/uninstalling Chaos products with sup
 * License Listener
 * Settings
 
-# Overview
+# Overview / Problem solved
 QA and Support engineers' daily tasks require multiple installations/uninstallations of various versions of the products. This although a simple task requires some effort from the team members and also causes inconveniences. The main idea of the tool is to optimize/automate the process of downloading and installing the software and make it much more pleasant for the engineer.
 
 # Challenges #
