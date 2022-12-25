@@ -1,4 +1,4 @@
-# chaos-installer
+# Chaos Installer
 Complete automation software for installing/uninstalling Chaos products with support for:
 * All Chaos products
 * All Operating Systems Windows, Linux, and macOS.
